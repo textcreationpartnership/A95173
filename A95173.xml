@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of His Majesties coming to the town of Shrewsbury, on the 20 of this instant September, and his passage from thence the 23 day, to the city of Chester, with the manner of his entetainment [sic] there. Together with the L: Grandisons surprizing Nantwich, and the plundering of divers houses in the town and country thereabouts, of such as stood well-affected to the King and Parliament. Collected out of severall letters from men of good credit to their friends in London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95173</idno>
+            <idno type="STC">Wing T2907</idno>
+            <idno type="STC">Thomason E119_3</idno>
+            <idno type="STC">ESTC R8581</idno>
+            <idno type="EEBO-CITATION">99873347</idno>
+            <idno type="PROQUEST">99873347</idno>
+            <idno type="VID">125815</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95173)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125815)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E119[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of His Majesties coming to the town of Shrewsbury, on the 20 of this instant September, and his passage from thence the 23 day, to the city of Chester, with the manner of his entetainment [sic] there. Together with the L: Grandisons surprizing Nantwich, and the plundering of divers houses in the town and country thereabouts, of such as stood well-affected to the King and Parliament. Collected out of severall letters from men of good credit to their friends in London.</title>
+                  <author>W. R.</author>
+               </titleStmt>
+               <extent>7 [i.e. 8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. R.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Septem. 29. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Letter dated Nantwich, Septemb. 24, 1642 p. 5 signed W. R.</note>
+                  <note>Page 8 misnumbered 7.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Grandison, William Villiers, --  Viscount, 1614-1643.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125815:1" rendition="simple:additions"/>
+            <head>A True RELATION OF His Majeſties Coming to the Town of <hi>Shrewſ<g ref="char:EOLhyphen"/>bury,</hi> on the 20 of this inſtant <hi>September,</hi> and His paſſage from thence the 23 day, to the City of <hi>Cheſter,</hi> with the manner of His entetainment there.</head>
+            <p>Together with the L: <hi>Grandiſons</hi> Surprizing <hi>NANTWICH,</hi> And the plundering of divers houſes in the Town and Country thereabouts, of ſuch as ſtood well-affected to the King and Parliament.</p>
+            <p>Collected out of ſeverall Letters from Men of good credit to their Friends in London.</p>
+            <p>London, Printed for R. R. Septem. 29. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:125815:2"/>
+            <pb n="3" facs="tcp:125815:2"/>
+            <p>
+               <seg rend="decorInit">H</seg>Is Majeſty came to <hi>Salop</hi> on Tueſday laſt, with great ſtrength both of men and Arms, where he ſtayed till Friday, and then came to <hi>Whitchurch,</hi> and went to <hi>Cheſter;</hi> I was one that was appointed to attend him thither, which I did, with divers more Gentlemen and Free-holders: His Majeſtie and the Prince dined in <hi>Whitchurch,</hi> and ſo went for <hi>Cheſter:</hi> when we came to <hi>Miltongreen,</hi> there was M. <hi>Richard Edgerton</hi> of <hi>Ridley,</hi> with ſome 600 Musketriers, and then when we came to <hi>Hetton</hi>-heath, there was the Lord <hi>Rivers</hi> with all his For<g ref="char:EOLhyphen"/>ces, and my Lord <hi>Chomley</hi> with horſe and Foot, very compleat beyond the other; ſo they having diſplaid their Colours, gave his Majeſty a valley of Shot; which being done, his Ma<g ref="char:EOLhyphen"/>ieſty having ridden once or twice about the Army, taken no<g ref="char:EOLhyphen"/>tice of the Sheriff and his Company, with divers other Gen<g ref="char:EOLhyphen"/>tlemen which were, then came to <hi>Routten</hi>-heath, where was Sir <hi>T<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o. Aſton</hi> with that Company he had, which did ſhew themſelves as the other had done. Then his Maieſtie ſee forwards for <hi>Cheſter;</hi> at <hi>Boughton,</hi> where the Liberty of the City beginneth, the two Sheriffs of <hi>Cheſter,</hi> with all their company attended: Then coming to the Bars, there attended the Maior and Aldermen, where the Maior delivered both Mace and Sword into his Maieſties hand, who received them, and gave them to him again, and ſo he marched before the King, with all the Aldermen and Sheriff, with all the Companies in Town with their Gowns, and all the Trained Bands of the City, with voluntiers ſet on each ſide of the Street, who diſcharged juſt as his Maieſtie paſſed by. Thus was his Maieſty attended to the Court with all the Bells ringing, Drums and Trumpets ſounding.</p>
+            <p>
+               <hi>Thus for His Majeſties going to</hi> Cheſter.</p>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:125815:3"/>
+            <opener>
+               <dateline>Cheſter, <date>Septemb. 24. 1642.</date>
+               </dateline>
+            </opener>
+            <p>YEſternight, about 4 or 5 a clock, the King came into the City, attended with two Troops of Horſe that came with him; and after his Majeſtie, came Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Aſton</hi> with his Troop: The Maior and Aldermen ſtand<g ref="char:EOLhyphen"/>ing on a Scaffold in <hi>Eaſtgate</hi> Street, before <hi>Tho Parnels</hi> door; Serieant <hi>Brerewood</hi> the Recorder made a Speech; but there was ſuch great ſhouting for joy, that I think his Maieſty ſcarce heard him: and all the Companies ſtanding with their Arms in the <hi>Eaſtgate</hi> ſtreet, to entertain his Maieſty; and the Sheriffs, and <note n="*" place="margin">Sheriff peers are ſuch as have been She<g ref="char:EOLhyphen"/>riffs.</note> Sheriffs peers, and ſuch as have been <note n="*" place="margin">Leave Lookers is an office one degree under the Sheriff.</note> Leave-Lookers, rid out of Town in Scarlet (as they uſe to ride out at <hi>Midſummer</hi>) to meet his Maieſty, with all our Trayned Bands: The Maior rid before his Maieſty, carrying the Sword, from the Scaffold to the Biſhops Pallace, as I am told for truth by them that ſaw them. The Lord <hi>Dillon,</hi> and ano<g ref="char:EOLhyphen"/>ther Iriſh Lord<g ref="char:punc">▪</g> a great Rebell, came with his Maieſty into the City: Sir <hi>Richard Wilbraham</hi> met his Maieſty, and fell down on his knees to him, but his Maieſty would not take notice of him; he and Sir <hi>Tho. Delves</hi> are committed to the Sheriff, both thoſe Knights declared themſelves for the Ordinance of the <hi>Militia:</hi> It is thought there are Warrants out for the apprehending of many other Gentlemen.</p>
+            <p>Yeſterday, about two hours before his Maieſty came, there came about a Troop of the Lord <hi>Strange</hi> his horſe, and 80 horſe loads of Muskets and Bandaliers, and ſuch like Pro<g ref="char:EOLhyphen"/>viſion, which were laid in our common Hall; and there are 200 more at the Lord <hi>Strange</hi> his houſe, that came from <hi>New<g ref="char:EOLhyphen"/>caſtle.</hi> The Lord <hi>Strange</hi> hath delivered thoſe Arms that were taken from papiſts in <hi>Lancaſhire,</hi> to them again, and threatened the Maior of <hi>Leverpool</hi> to batter down the Town if he would not deliver them, it is ſaid there are 5000 com<g ref="char:EOLhyphen"/>ing thorow <hi>Lancaſhire,</hi> which came out of the North for his Maieſty. Yeſternight, at 9 a clock, the Lord <hi>Strange</hi> came
+<pb n="5" facs="tcp:125815:3"/>into this City with one or two Troops of Horſe. This day all betwixt the age of 16 and 60 yeers, of the Trayned Bands of the County, are ſummoned to appear before his Maieſty at <hi>Hoo</hi>-heath, two miles from <hi>Cheſter.</hi>
+            </p>
+            <p>Upon Wedneſday laſt the Town of <hi>Nantwich</hi> were in ſome fear leſt they ſhould be diſarmed, and ſtood upon their Guard, and ſome ayd came to help them; but that night fol<g ref="char:EOLhyphen"/>lowing about 1000 horſe came thither; the Lord <hi>Cholmley</hi> came with them, with the Commiſſion for the Array; they were to have a parly, the Town would have been delivered, ſo that they might have their Arm, and Liberties; this while the other ſide got in at back Gardens, and diſarmed all, and plun<g ref="char:EOLhyphen"/>dered ſome houſes: The day following they went to Sir <hi>Ri<g ref="char:EOLhyphen"/>chard Wilbrahams,</hi> and Sir <hi>Tho. Delues,</hi> and diſarmed them, took their horſes, and three Care load of Armour from them, and do further proceed, doing much harm at many other pla<g ref="char:EOLhyphen"/>ces and houſes. It is thought our Maior and Aldermen in<g ref="char:EOLhyphen"/>tend to give the King a ſum of money.</p>
+         </div>
+         <div type="letter">
+            <opener>
+               <dateline>Nantwich, <date>Septemb. 24. 1642.</date>
+               </dateline>
+               <lb/>
+               <salute>Good Couſin,</salute>
+            </opener>
+            <p>I Preſume you hear of the paſſages at <hi>Nantwich</hi> on Wed<g ref="char:EOLhyphen"/>neſday laſt: The Town, after ſome preparation for re<g ref="char:EOLhyphen"/>ſiſtance, received the Lord <hi>Grandiſon,</hi> and 1100 horſe, fearing if they had by force of Arms driven them back, his Maieſty being in thoſe parts, would have revenged the ſame in a ſeuere way: Being ſuffered to come in, he preſently diſ<g ref="char:EOLhyphen"/>armed the Town, and Countrey-men there; I for company loſt my Repier.</p>
+            <p>The day follwoing, they took Arms from <hi>Crew</hi> hall for 20 men, but did no other violence; Sir <hi>Thomas Delues</hi> left his houſe empty, and much Arms on the hall Table for them; They dealt more hardly at M. <hi>Vernons,</hi> taking many other things beſides Arms; No violence that I could hear of was offered to any mans perſon in <hi>Nantwich</hi> on Wedneſday, but
+<pb n="6" facs="tcp:125815:4"/>to one <hi>Radcliff,</hi> an honeſt man, about <hi>Wiſtaston,</hi> who was ſhot into the hand and ſhoulder, becauſe he was ſlow in deli<g ref="char:EOLhyphen"/>vering his Musket: They have alſo been in divers other hou<g ref="char:EOLhyphen"/>ſes in <hi>Bartomley</hi> Pariſh, the Parſons for one; and what they have done on the other ſide of the Town I know not. The Gentlemen and Trayned Bands are to attend his Majeſty this day at <hi>Hatton</hi> heath.</p>
+            <p>The Earl of <hi>Eſſex</hi> is expected in <hi>Cheſhire</hi> to morrow or on <hi>Munday:</hi> The face of things in <hi>Cheſhire</hi> is ſtrangely altered; we did not make our due returns when we had got more quiet times, God in his mercy prevent the effuſion of inno<g ref="char:EOLhyphen"/>cent blood: If you have not already bought that little mil<g ref="char:EOLhyphen"/>litarie proviſion I beſpake, I think its beſt to make a ſtay thereof, for I fear no ſuch thing can be either ſafely ſent hi<g ref="char:EOLhyphen"/>ther or kept here, our Arms muſt be prayers and tears, for we have not ſo much as a ſword to defend us, God of his mercy keep you, pray for us I beſeech you good Sir, as he will do for you, who is your moſt obliged friend and Cozin,</p>
+            <closer>
+               <signed>W: R.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="7" facs="tcp:125815:4"/>
+            <opener>
+               <dateline>
+                  <date>September 23. 1642</date>
+               </dateline>
+               <lb/>
+               <salute>Good Sir,</salute>
+            </opener>
+            <p>THe latter end of your Letter is ſomewhat comfor<g ref="char:EOLhyphen"/>table, in that you write there are ſome Dragons coming into <hi>Cheſhire</hi> for our relief, but ſurely they are not come, and now will come too late for we are all plundred and undone; <hi>Nantwich</hi> is taken by My Lord <hi>Grandiſons</hi> Army, and the Town diſarmed, and many houſes plundred who ſtood for the Parl ament and <hi>Militia,</hi> the owners of them driven to run away for ſafety of their lives, for they have threatned them much, and after they had diſarmed the Town, they came into the Country <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d diſarmed all the great houſes: Firſt Sir <hi>Thomas Delves,</hi> then my Lord <hi>Crews,</hi> then Sir <hi>Richard Wilbrahams,</hi> and ſo all the other Gentlemen round about us, and plundred their houſes, they belong forced not onely to leave their own hou<g ref="char:EOLhyphen"/>ſes, but alſo the Town of <hi>Nantwich,</hi> and their poor Ten<g ref="char:EOLhyphen"/>nant<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Count<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y men, to the mercy of thoſe m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rcileſſe Villans who will have what they liſt, nay th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y will have wh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t we have not for them, or elſe they will ſet a Piſtoll to <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur throats and ſw<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>are God damne them they will make us ſwallow a Bullet, ſome of them are not content to take what Arms they can find, but alſo Mony, Plate, Linnens, Cloaths, Writings, Meat, D<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ink, and not therewith content, but ſtea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e our horſes and maers, drive our women and children into ſuch feare that they over run their houſes, ly in the fields, ditches and woods, I do not heare of the like cruelty that hath been uſed any where but in that miſerable and blee<g ref="char:EOLhyphen"/>ding Kingdom of <hi>Ireland,</hi> we are like to be worſe yet, for
+<pb n="7" facs="tcp:125815:5"/>this day tho King is at <hi>Cheſter,</hi> and all the whole County from 16 years to 60. is to meet and attend His Majeſty, and the Commiſſioners of Array within half a mile of <hi>Cheſter</hi> with all their Arms which they haue left, none dare refuſe to come, the malignant party will inform againſt them, and then they are threatned to be all carried away with my Lord <hi>Grandiſons</hi> Army, the beſt of it is, if we ſtay at home we are now their ſlaves, being naked they will have of us what they liſt, and do with us what they liſt, however, I believe we ſhall be made the ſeat of War, and ſo be utter<g ref="char:EOLhyphen"/>ly ruined and undone, for want of help in time and true hearts amongſt our ſelves, I thank God hitherto I have eſ<g ref="char:EOLhyphen"/>caped; yet with much fear and danger, but I muſt confeſſe it is more of the goodneſſe and mercy of my good God, then of any deſeart in me, God grant I may make a good uſe of it and give him the glory; The ſecondarie means was, I ha<g ref="char:EOLhyphen"/>ving acquaintance with ſome of the Cavaliers, who former<g ref="char:EOLhyphen"/>ly were ſomething beholding unto me, I now find it to be ſomething better with me and ſome friends of mine then I or they expected, and yet our feares are great when houſes night unto us have bin plundred twice over, and the owners thereof watched for, as the Cat watcheth for the Mouſe, what they would do with them, or how they would uſe them, God knowes, I pray you pardon my errors in writing, for my feares and diſtractions are great; I onely deſire you to pray for us, and let us heare from you; God knowes how long or ſhort a time we ſhall heare one from another, the Lord fit us for theſe ill times, and worſer which I much feare. So prayeth your much obliged friend, &amp;c.</p>
+            <p>
+               <hi>To heare the pittyfull ſcriking, weeping, and howling of wo<g ref="char:EOLhyphen"/>men and children, did more trouble me then any thing elſe; God grant I never heare the like.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
